@@ -1,0 +1,1 @@
+This is a readme file for my first "The Odin Project" project. This readme will be updated when the project is finished and will be used as a self-reflection text.
